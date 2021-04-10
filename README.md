@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="http://0x25e.club/assets/github/1.png"/>
+  <img src="http://0x25e.club/assets/github-banner-1.png"/>
 </p>
 
 <p align="center">
@@ -20,5 +20,9 @@
 </p>
 
 <p align="center">
-  <img src="http://0x25e.club/assets/github/2.png"/>
+  <img src="http://0x25e.club/assets/github-banner-2.png"/>
+</p>
+
+<p align="center">
+  <img src="http://0x25e.club/assets/server-invite.png"/>
 </p>
