@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://0x25e.club/assets/github/1.png"/>
+  <img src="https://i.imgur.com/1XJhQBe.png"/>
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-  <img src="https://0x25e.club/assets/github/2.png"/>
+  <img src="https://i.imgur.com/pbgwOp0.png"/>
 </p>
 
 <p align="center">
