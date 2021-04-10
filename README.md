@@ -24,6 +24,5 @@
 </p>
 
 <p align="center">
-  <p href="https://discord.gg/VKJeg6nvSH">
-  <img src="https://i.imgur.com/HWF3UoH.png"/>
+  <href="https://discord.gg/VKJeg6nvSH" img src="https://i.imgur.com/HWF3UoH.png"/>
 </p>
