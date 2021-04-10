@@ -1,16 +1,24 @@
-### Hi there 👋
+<p align="center">
+  <img src="http://0x25e.club/assets/github/1.png"/>
+</p>
 
-<!--
-**armfxl/armfxl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<a href="https://github.com/armfxl">
+    <img src="https://komarev.com/ghpvc/?username=armfxl&style=flat-square&color=grey" alt="Visitors">
+</a>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img src="https://github-readme-stats.vercel.app/api/?username=armfxl&title_color=4F8CC9&text_color=9f9f9f&show_icons=true&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true&include_all_commits=true&enable_animations=true" />
+    </td>
+        <td align="center" style="padding=0;width=50%;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=armfxl&title_color=4F8CC9&text_color=9f9f9f&show_icons=true&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true&enable_animations=true" />
+    </td>
+  </tr>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="http://0x25e.club/assets/github/2.png"/>
+</p>
