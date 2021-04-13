@@ -18,12 +18,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/armfxl">
-  <img src="https://i.imgur.com/rRrqtJN.png"/>
-  </a>
-</p>
-
-<p align="center">
   <a href="https://discord.gg/VKJeg6nvSH">
   <img src="https://i.imgur.com/s8Ph8Kt.png"/>
   </a>
