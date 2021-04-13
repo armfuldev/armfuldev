@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/armfxl">
-  <img src="https://i.imgur.com/1XJhQBe.png"/>
+  <img src="https://i.imgur.com/NTS3kFt.png"/>
   </a>
 </p>
 
@@ -19,7 +19,7 @@
 
 <p align="center">
   <a href="https://github.com/armfxl">
-  <img src="https://i.imgur.com/zgBv30z.png"/>
+  <img src="https://i.imgur.com/rRrqtJN.png"/>
   </a>
 </p>
 
