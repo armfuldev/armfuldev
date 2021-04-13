@@ -1,5 +1,7 @@
 <p align="center">
+  <a href="https://github.com/armfxl">
   <img src="https://i.imgur.com/1XJhQBe.png"/>
+  </a>
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=armfxl&style=flat-square&color=grey" alt="armfxl" /> </p>
@@ -16,7 +18,9 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/armfxl">
   <img src="https://i.imgur.com/zgBv30z.png"/>
+  </a>
 </p>
 
 <p align="center">
@@ -26,5 +30,7 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/armfxl">
   <img src="https://i.imgur.com/UrrU2Su.png"/>
+  </a>
 </p>
