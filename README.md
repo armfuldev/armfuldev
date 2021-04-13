@@ -19,7 +19,7 @@
 
 <p align="center">
   <a href="https://discord.gg/VKJeg6nvSH">
-  <img src="https://i.imgur.com/4ECYWnV.png"/>
+  <img src="https://i.imgur.com/7RMTXCi.png"/>
   </a>
 </p>
 
