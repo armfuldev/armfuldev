@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/armfxl">
-  <img src="https://i.imgur.com/tFqnqQu.png"/>
+  <img src="https://i.imgur.com/hF21q1G.png"/>
   </a>
 </p>
 
