@@ -2,11 +2,7 @@
   <img src="https://i.imgur.com/1XJhQBe.png"/>
 </p>
 
-<p align="center">
-<a href="https://github.com/armfxl">
-    <img src="https://komarev.com/ghpvc/?username=armfxl&style=flat-square&color=grey" alt="Visitors">
-</a>
-</p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=armfxl&style=flat-square&color=grey" alt="armfxl" /> </p>
 
 <p align="center">
   <tr>
