@@ -4,6 +4,8 @@
   </a>
 </p>
 
+<p align="center"> <img src="https://discord.c99.nl/widget/theme-4/684680250395066397.png" alt="armfxl" /> </p>
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=armfxl&style=flat-square&color=grey" alt="armfxl" /> </p>
 
 <p align="center">
