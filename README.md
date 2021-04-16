@@ -4,7 +4,11 @@
   </a>
 </p>
 
-<p align="center"> <img src="https://discord.c99.nl/widget/theme-4/684680250395066397.png" alt="armfxl" /> </p>
+<p align="center">
+  <a href="https://github.com/armfxl">
+    <img src="https://discord.c99.nl/widget/theme-4/684680250395066397.png" alt="armfxl"/>
+     </a>
+</p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=armfxl&style=flat-square&color=grey" alt="armfxl" /> </p>
 
@@ -22,6 +26,12 @@
 <p align="center">
   <a href="https://discord.gg/VKJeg6nvSH">
   <img src="https://i.imgur.com/7RMTXCi.png"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://discord.gg/VKJeg6nvSH">
+  <img src="https://i.imgur.com/HWF3UoH.png"/>
   </a>
 </p>
 
