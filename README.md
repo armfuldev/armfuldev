@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/armfxl">
-    <img src="https://discord.c99.nl/widget/theme-4/684680250395066397.png" alt="armfxl"/>
+    <img src="https://discord.c99.nl/widget/theme-3/684680250395066397.png" alt="armfxl"/>
      </a>
 </p>
 
