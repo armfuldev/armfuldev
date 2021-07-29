@@ -1,7 +1,7 @@
 <p align="center">
-  <a href="https://github.com/armfxl">
+    <a href="https://discord.gg/dash">
   <img src="https://i.imgur.com/RZjyfjG.png"/>
-  </a>
+    </a>
 </p>
 
 <p align="center">
