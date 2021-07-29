@@ -38,8 +38,8 @@
 </p>
 
 <p align="center">
-  <a href="https://discord.gg/VKJeg6nvSH">
-  <img src="https://i.imgur.com/HWF3UoH.png"/>
+  <a href="https://discord.gg/dash">
+  <img src="https://i.imgur.com/t2jixCo.png"/>
   </a>
 </p>
 
