@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="https://discord.gg/dash">
+    <a href="https://discord.gg/MeD6HFx9fG">
   <img src="https://i.imgur.com/RZjyfjG.png"/>
     </a>
 </p>
@@ -38,8 +38,8 @@
 </p>
 
 <p align="center">
-  <a href="https://discord.gg/dash">
-  <img src="https://i.imgur.com/t2jixCo.png"/>
+  <a href="https://discord.gg/MeD6HFx9fG">
+  <img src="https://i.imgur.com/UrrU2Su.png"/>
   </a>
 </p>
 
