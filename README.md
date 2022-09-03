@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="https://armful.dev">
+    <a href="https://github.com/armfuldev">
   <img src="https://www.armful.dev/assets/github-hero.png"/>
     </a>
 </p>
@@ -24,7 +24,7 @@
 </p>
 
 <p align="center">
-  <a href="https://armful.dev">
+  <a href="https://github.com/armfuldev">
   <img src="https://i.imgur.com/7RMTXCi.png"/>
   </a>
 </p>
@@ -38,7 +38,7 @@
 </p>
 
 <p align="center">
-  <a href="https://armful.dev">
+  <a href="https://github.com/armfuldev">
   <img src="https://i.imgur.com/t2jixCo.png"/>
   </a>
 </p>
